@@ -5,6 +5,7 @@ h1 {
     color: white;
     font-family: 'Permanent Marker', cursive;
     font-size: 50px;
+    -webkit-text-stroke: 2px black; /* width and color */
 }
 
 body {
@@ -23,4 +24,13 @@ body {
     border: 10px;
     border-style: solid;
     border-radius: 10px;
+}
+
+#buttonContainer {
+    margin-left: auto;
+    text-align: center;
+}
+
+#header {
+    font-size: 60px;
 }

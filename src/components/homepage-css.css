@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
 h1 {
     text-align: center;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+
+body {
+    background-image: url('https://wallpapercave.com/wp/wp4904630.jpg');
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#date {
+    width: 40%;
+    margin-left:auto;
+    margin-top: 5rem;
+    border: 10px;
+    border-style: solid;
+    border-radius: 10px;
 }
